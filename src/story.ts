@@ -48,6 +48,7 @@ export class Story {
 
     private readonly _bulletMap: Map<string, Bullet<any>>;
     private readonly _bulletList: Array<Bullet<any>>;
+    private  _read: boolean = false;
 
     private constructor(identifier: string) {
 
@@ -77,6 +78,14 @@ export class Story {
     }
     public get thesis(): Thesis | null {
         return this._thesis;
+    }
+
+    public get read(): boolean {
+        return this._read;
+    }
+
+    public setRead(read: boolean): void {
+        this._read = read;
     }
 
     public hasThesis(): boolean {
