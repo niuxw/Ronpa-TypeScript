@@ -12,9 +12,9 @@
   "author": "WMXPY",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SudoDotDog/Ronpa-TypeScript/issues"
+    "url": "https://github.com/niuxw/Ronpa-TypeScript/issues"
   },
-  "homepage": "https://github.com/SudoDotDog/Ronpa-TypeScript#readme",
+  "homepage": "https://github.com/niuxw/Ronpa-TypeScript#readme",
   "dependencies": {
     "@sudoo/random": "^2.1.1"
   },
