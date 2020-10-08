@@ -4,7 +4,7 @@
   "description": ":speech_balloon: Comments Management for TypeScript",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudoDotDog/Ronpa-TypeScript.git"
+    "url": "git+https://github.com/niuxw/Ronpa-TypeScript"
   },
   "keywords": [
     "ronpa"
